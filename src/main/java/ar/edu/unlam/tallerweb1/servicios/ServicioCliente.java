@@ -10,4 +10,5 @@ public interface ServicioCliente {
 	Cliente buscarClientePorNombre(String nombre);
 	Integer registrarCliente(Cliente cliente);
 	List<Localidad> obtenerLocalidades();
+	void enviarEmail(Cliente clienteNuevo);
 }
