@@ -1,8 +1,5 @@
 ## Aplicación web realizada en Taller Web 1
 
-- crear una base de datos llamada tallerweb1
-- para cargar la bd entrar al controlador cargar-productos
-
 ### Funcionalidades
 
 * Agregar producto al carrito
@@ -22,6 +19,11 @@
 * Manejar usuario
 	* Login y logout para 1 cliente y 1 delivery predefinidos
 * Registro de cliente
+
+### Para el correcto funcionamiento:
+- crear una base de datos llamada tallerweb1
+- para cargar la bd entrar al controlador 'cargar-productos' luego al home
+
 
 ![home_banner](https://user-images.githubusercontent.com/24881247/50491134-98fc0e00-09ef-11e9-94f5-69cef75f9d91.png)
 
